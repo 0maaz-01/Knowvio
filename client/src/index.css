@@ -1,0 +1,17 @@
+/*importing font from the google font website*/
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+
+
+/*Add this code to use tailwind css in the code*/
+@tailwind base ;
+@tailwind components;
+@tailwind utilities;
+
+/*To use the font anywhere in the project*/
+*{
+    font-family : Outfit ;
+}
+
+
+  
